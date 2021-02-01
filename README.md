@@ -12,7 +12,3 @@
 ### cv
 - [opencv](opencv)
 - [math](math)
-
-### DB
-
-- [mybatis-xml]()
